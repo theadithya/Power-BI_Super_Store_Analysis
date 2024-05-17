@@ -7,3 +7,7 @@ Incorporated Data Analysis techniques, specializing in time series analysis to d
 
 ## Forecast:
 ![Forecast](https://github.com/theadithya/Power-BI_Super_Store_Analysis/assets/155057818/6ebfc0ab-43bf-48cd-ba2e-81edd2a9c89e)
+
+## Demo:
+https://github.com/theadithya/Power-BI_Super_Store_Analysis/assets/155057818/858f89df-8dea-4afb-8bd7-75ce9ee5f0bf
+
